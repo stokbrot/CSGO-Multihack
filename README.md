@@ -1,2 +1,2 @@
 # CSGO
-basically soem stuff i have on my pc (Probably i didn't make those )
+basically a mutli cheat with auto updating offsets i found on my pc (Probably i didn't make this )
